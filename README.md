@@ -1,4 +1,6 @@
 # project-assigment-2
+ini adalah project crud vue untuk project assigment inosoft bootcamp batch 5
+
 
 ## Project setup
 ```
